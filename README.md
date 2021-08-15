@@ -1,1 +1,1 @@
-# rust_sandbox
+# sandbox-rust
